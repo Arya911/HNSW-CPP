@@ -1,0 +1,6 @@
+obj/*
+HNSW
+main.d
+
+
+!obj/.gitignore
