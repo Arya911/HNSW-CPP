@@ -4,8 +4,8 @@
 
 # Compiler settings - Can be customized.
 CC = g++
-CXXFLAGS = -std=c++11 -Wall
-LDFLAGS = -Weffc++ 
+CXXFLAGS = -std=c++17 -Wall -Weffc++ -Wextra
+LDFLAGS =  
 
 # Makefile settings - Can be customized.
 APPNAME = HNSW
